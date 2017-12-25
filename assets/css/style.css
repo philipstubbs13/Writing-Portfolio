@@ -3,9 +3,6 @@ body {
 	font-size: 18px;
 }
 
-.link {
-	text-decoration: none;
-}
 
 #github-logo {
     width: 53px;
@@ -27,5 +24,28 @@ body {
 #twitter-logo {
     width: 53px;
     height: 53px;
+}
+
+#headshot {
+    width: 250px;
+    height: 250px;
+    max-width: 100%;
+}
+
+#piano {
+    width: 50px;
+    height: 35px;
+}
+
+#bishop-chess {
+    height: 35px;
+}
+
+#basketball-hoop {
+    height: 35px;
+}
+
+#globe {
+    height: 35px;
 }
 
